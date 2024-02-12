@@ -1,4 +1,4 @@
-# Subset of LoRaWAN Path Loss Dataset including Environmental Variables
+# Subset of LoRaWAN Path Loss Dataset including Environmental Variables and associated ML-based SNR Models
 This dataset includes a subset of the measurement campaign for LoRaWAN End Nodes measuring path loss and environmental variables previously shared in https://github.com/magonzalezudem/MDPI_LoRaWAN_Dataset_With_Environmental_Variables. This subset included one daily register per End Node where we guaranteed that the SNR variability was high, i.e., the SNR values were under the percentile 5th and above the percentile 95th. 
 
 The subset includes the following fields:
